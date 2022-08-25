@@ -1,0 +1,3 @@
+''ip'':''AvengersProSMP.aternos.me'',
+''port'': ''60293",
+"name": "BOT123"
